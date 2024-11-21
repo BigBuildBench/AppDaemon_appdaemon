@@ -1,0 +1,18 @@
+.git
+.gitignore
+.github
+.pytest_cache
+
+Dockerfile
+.dockerignore
+
+.pre-commit-config.yaml
+
+*.md
+!README*.md
+MANIFEST.in
+*.rst
+
+# Documentation
+docs
+.readthedocs.yml
